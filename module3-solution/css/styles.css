@@ -1,1 +1,30 @@
+/* Navbar */
 
+.navbar {
+    border-radius: 0;
+}
+
+
+/* Main section */
+
+.main-section {
+    background-color: #eeeeee;
+    height: 1000px;
+    padding: 20px;
+    margin-top: 20px;
+}
+
+
+/* Mobile menu */
+
+@media (max-width: 767px) {
+
+    .navbar-nav {
+        margin: 0;
+    }
+
+    .navbar-nav > li > a {
+        text-align: center;
+    }
+
+}
