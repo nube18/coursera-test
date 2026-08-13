@@ -1,6 +1,6 @@
 (function (window) {
 
-  // STEP 7: Create the byeSpeaker object
+  // STEP 7: Create the byeSpeaker objects
   var byeSpeaker = {};
 
   // DO NOT attach speakWord to the byeSpeaker object.
